@@ -25,7 +25,7 @@ jobs:
       - name: Expo Prebuild
         run: |
           if [ ! -d "android" ]; then
-            npx expo prebuild --platform android
+            npx expo prebuild --platform android --no-install
           fi
 
       - name: Setup Java JDK
