@@ -1,0 +1,6 @@
+{
+  "name": "تطبيق خدمتي للخدمات المنزلية",
+  "description": "منصة شاملة لربط العملاء بأفضل الفنيين ومقدمي الخدمات المنزلية مع نظام طلبات ومحادثات ولوحات تحكم للعميل والفني والمدير",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
